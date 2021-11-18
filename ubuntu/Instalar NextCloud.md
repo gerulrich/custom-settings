@@ -19,7 +19,7 @@ Ingresar mediante un browser:
 http://server_domain_or_IP
 ```
 
-![nginx_default.png](nginx_default.png?fileId=2945#mimetype=image%2Fpng&hasPreview=true)
+![nginx_default.png](https://assets.digitalocean.com/articles/lemp_ubuntu2004/nginx_default.png)
 
 ### Instalar mysql
 
