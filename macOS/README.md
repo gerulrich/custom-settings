@@ -42,6 +42,7 @@ pyenv global 3.9.2
 
 Agregar en .bash_profile:
 ```
+export BASH_SILENCE_DEPRECATION_WARNING=1
 export PATH=$(pyenv root)/shims:/usr/local/bin:/usr/bin:/bin:$PATH
 ```
 
